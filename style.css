@@ -3,14 +3,25 @@ body {
     color: brown;
 }
 
-.colored-bkg {
-    background-color:pink;
-}
-
 h3 {
     color:aquamarine
 }
 
 h4 {
     background-color: beige;
+}
+
+.colored-bkg {
+    background-color:pink;
+}
+
+.colored-text {
+    color: black;
+    padding: 1rem;
+}
+
+.div-3 {
+    font-size: 2rem;
+    padding: 1rem;
+    background-color: wheat;
 }
